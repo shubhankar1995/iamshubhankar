@@ -10,7 +10,7 @@ const greeting = {
   username: "Shubhankar Mathur",
   title: "Hi all, I'm Shubhankar",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web applications with Reactjs / Nodejs and large scale distributed applications using Java / Python / C# / SQL database."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: ""
 };
 
 // Your Social Media Link

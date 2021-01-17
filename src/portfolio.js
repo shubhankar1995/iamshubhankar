@@ -30,7 +30,7 @@ const skillsSection = {
   title: "What i do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
+    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
@@ -120,10 +120,10 @@ const educationInfo = {
       logo: require("./assets/images/UNSW-Square.png"),
       subHeader: "Master of Information Technology",
       duration: "Feb 2019 - Dec 2020",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Took courses about Software Security, AWS Cloud, Big Data Management, Machine Learning, Artificial Intelligence",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Specialization in Data Science and Artificial Intelligence",
+        "Elected as the Student Representative for the year 2019-2020"
       ]
     },
     {
@@ -131,9 +131,10 @@ const educationInfo = {
       logo: require("./assets/images/Shiv_Nadar_University.jpg"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "July 2012 - May 2016",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Took courses about Software Engineering, Web Security, Operating Systems",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Secured 100% merit based scholorship",
+        "Appointed as the coordinator of LASC at SNU"
       ]
     }
   ]
@@ -177,11 +178,12 @@ const workExperiences = {
       role: "Intern",
       company: "Nokia",
       companylogo: require("./assets/images/Nokia-Logo.jpg"),
-      date: "Nov 2020 – Present",
+      date: "Nov 2020 – Jan 2021",
       descBullets: [
-        "Working on remote BTS monitoring system with capability to learn and perform predictive analysis and optimization actions using artificial intelligence.",
-        "Predictive modeling techniques leading to 20% reduction in network alarms and less tickets for faults.",
-        "Gaining in-depth knowledge of Cloud Infrastructure, Orchestration and NF Onboarding."
+        "Worked on remote BTS monitoring system with capability to learn and perform predictive analysis, which led to 30% reduction in network alarms and fewer tickets for faults",
+        "Developed web application for custom dashboards using React.js and Node.js",
+        "Gaining in-depth knowledge of Azure, Google Analytics, Orchestration, and NF Onboarding",
+        "Leveraged knowledge in Python for data management and Java spring boot for rest API"
       ]
     },
     {
@@ -190,9 +192,9 @@ const workExperiences = {
       companylogo: require("./assets/images/UNSW-Square.png"),
       date: "Jun 2019 – Jan 2020",
       descBullets: ["Developed automated scripts to reduce the efforts to process data from CSV, JSON and XML files by 50%.",
-      "Created regression models to interpret significant personality traits for online advertisement and reduced the p-values and Variance Inflation Factor considerably by 30%.",
-      "Applied statistical and algebraic techniques, data cleaning and data processing to execute structured experimentation based on data-driven and market ideas.",
-      "Leveraged knowledge in IBM Watson, ScikitLearn, Pandas, Statsmodel, VIF, SQLite, programmed in Python, VScode, GIT."
+      "Created regression models to interpret significant big 5 actor personality traits and reduced the p-values and VIF considerably by 15%",
+      "Applied statistical and algebraic techniques, data cleaning, and data processing to execute structured experimentation based on data-driven and market ideas",
+      "Leveraged knowledge in ScikitLearn, Pandas, Statsmodel, VIF, Python"
       ]
     },
     {
@@ -210,11 +212,10 @@ const workExperiences = {
       company: "Dell",
       companylogo: require("./assets/images/dellLogo.png"),
       date: "July 2016 – Jan 2019",
-      desc : "Gathered and consolidated business requirements, development of user stories, estimates and work plans and coordinated closely with cross-function development teams and non-technical teams.",
-      descBullets: ["Developed logistics, inventory management and financial service applications in supply chain management system deploying Agile methodology.",
-                    "Coded application using Java Spring with Hibernate using maven, Oracle PL/SQL, and IBM MQ for messaging on cloud platform using microservice architecture.",
-                    "Developed restful services for the implementation of the application interface.",
-                    "Reduced software delivery time by 10x and Increased product quality metrics by 50%."
+      desc : "Gathered and consolidated business requirements, development of user stories, estimates and work plans and coordinated closely with cross-functional business teams",
+      descBullets: ["Developed application using Java Spring Boot, Hibernate, Oracle PL/SQL, and IBM MQ on Pivotal cloud using microservices architecture leveraging both IaaS and PaaS computing infrastructure",
+                    "Worked with Jenkins on docker and TFS workflows for application modeling and for CI/CD",
+                    "Developed restful services for the implementation of the application interface"
                   ]
     }
   ]

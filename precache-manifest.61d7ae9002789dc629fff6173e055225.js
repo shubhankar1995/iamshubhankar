@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "233f53ebd92b7b3fc8c90d692a3120d8",
+    "revision": "3fa88a4fcda0c36969ccab7b73e912c0",
     "url": "/iamshubhankar/index.html"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iamshubhankar/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "3539f37b85b1c6ad9709",
+    "revision": "36ab5df0fcb92a691278",
     "url": "/iamshubhankar/static/css/main.4b8566a2.chunk.css"
   },
   {
-    "revision": "993544e0a4d63a853535",
-    "url": "/iamshubhankar/static/js/2.1966fee3.chunk.js"
+    "revision": "b2659206781aa929a9e2",
+    "url": "/iamshubhankar/static/js/2.47bb59eb.chunk.js"
   },
   {
     "revision": "0fcab5f94027fccc0217",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iamshubhankar/static/js/4.db49e915.chunk.js"
   },
   {
-    "revision": "3539f37b85b1c6ad9709",
-    "url": "/iamshubhankar/static/js/main.dd7e9a98.chunk.js"
+    "revision": "36ab5df0fcb92a691278",
+    "url": "/iamshubhankar/static/js/main.9d6d5264.chunk.js"
   },
   {
     "revision": "c58a1d7fee654afc7afa",

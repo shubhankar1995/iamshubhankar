@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/iamshubhankar/static/css/main.4b8566a2.chunk.css",
-    "main.js": "/iamshubhankar/static/js/main.8de75f5f.chunk.js",
-    "main.js.map": "/iamshubhankar/static/js/main.8de75f5f.chunk.js.map",
-    "runtime-main.js": "/iamshubhankar/static/js/runtime-main.2bbcc14a.js",
-    "runtime-main.js.map": "/iamshubhankar/static/js/runtime-main.2bbcc14a.js.map",
-    "static/js/2.47bb59eb.chunk.js": "/iamshubhankar/static/js/2.47bb59eb.chunk.js",
-    "static/js/2.47bb59eb.chunk.js.map": "/iamshubhankar/static/js/2.47bb59eb.chunk.js.map",
+    "main.js": "/iamshubhankar/static/js/main.bae9e20d.chunk.js",
+    "main.js.map": "/iamshubhankar/static/js/main.bae9e20d.chunk.js.map",
+    "runtime-main.js": "/iamshubhankar/static/js/runtime-main.ab7d1c5c.js",
+    "runtime-main.js.map": "/iamshubhankar/static/js/runtime-main.ab7d1c5c.js.map",
+    "static/js/2.d401e30c.chunk.js": "/iamshubhankar/static/js/2.d401e30c.chunk.js",
+    "static/js/2.d401e30c.chunk.js.map": "/iamshubhankar/static/js/2.d401e30c.chunk.js.map",
     "static/css/3.3a26ebde.chunk.css": "/iamshubhankar/static/css/3.3a26ebde.chunk.css",
-    "static/js/3.6dc0f9a8.chunk.js": "/iamshubhankar/static/js/3.6dc0f9a8.chunk.js",
-    "static/js/3.6dc0f9a8.chunk.js.map": "/iamshubhankar/static/js/3.6dc0f9a8.chunk.js.map",
+    "static/js/3.816f6d58.chunk.js": "/iamshubhankar/static/js/3.816f6d58.chunk.js",
+    "static/js/3.816f6d58.chunk.js.map": "/iamshubhankar/static/js/3.816f6d58.chunk.js.map",
     "static/css/4.ee2a0142.chunk.css": "/iamshubhankar/static/css/4.ee2a0142.chunk.css",
-    "static/js/4.db49e915.chunk.js": "/iamshubhankar/static/js/4.db49e915.chunk.js",
-    "static/js/4.db49e915.chunk.js.map": "/iamshubhankar/static/js/4.db49e915.chunk.js.map",
+    "static/js/4.c5844a27.chunk.js": "/iamshubhankar/static/js/4.c5844a27.chunk.js",
+    "static/js/4.c5844a27.chunk.js.map": "/iamshubhankar/static/js/4.c5844a27.chunk.js.map",
     "index.html": "/iamshubhankar/index.html",
-    "precache-manifest.f24b9dffa32e6f541d5be42e54b31a30.js": "/iamshubhankar/precache-manifest.f24b9dffa32e6f541d5be42e54b31a30.js",
+    "precache-manifest.8f65e02302653ef6661373b667307c1f.js": "/iamshubhankar/precache-manifest.8f65e02302653ef6661373b667307c1f.js",
     "service-worker.js": "/iamshubhankar/service-worker.js",
     "static/css/3.3a26ebde.chunk.css.map": "/iamshubhankar/static/css/3.3a26ebde.chunk.css.map",
     "static/css/4.ee2a0142.chunk.css.map": "/iamshubhankar/static/css/4.ee2a0142.chunk.css.map",
@@ -45,9 +45,9 @@
     "static/media/talksCardBackAlt.svg": "/iamshubhankar/static/media/talksCardBackAlt.7f0feeed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bbcc14a.js",
-    "static/js/2.47bb59eb.chunk.js",
+    "static/js/runtime-main.ab7d1c5c.js",
+    "static/js/2.d401e30c.chunk.js",
     "static/css/main.4b8566a2.chunk.css",
-    "static/js/main.8de75f5f.chunk.js"
+    "static/js/main.bae9e20d.chunk.js"
   ]
 }

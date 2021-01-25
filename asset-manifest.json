@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iamshubhankar/static/css/main.4b8566a2.chunk.css",
-    "main.js": "/iamshubhankar/static/js/main.9d6d5264.chunk.js",
-    "main.js.map": "/iamshubhankar/static/js/main.9d6d5264.chunk.js.map",
+    "main.js": "/iamshubhankar/static/js/main.8de75f5f.chunk.js",
+    "main.js.map": "/iamshubhankar/static/js/main.8de75f5f.chunk.js.map",
     "runtime-main.js": "/iamshubhankar/static/js/runtime-main.2bbcc14a.js",
     "runtime-main.js.map": "/iamshubhankar/static/js/runtime-main.2bbcc14a.js.map",
     "static/js/2.47bb59eb.chunk.js": "/iamshubhankar/static/js/2.47bb59eb.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.db49e915.chunk.js": "/iamshubhankar/static/js/4.db49e915.chunk.js",
     "static/js/4.db49e915.chunk.js.map": "/iamshubhankar/static/js/4.db49e915.chunk.js.map",
     "index.html": "/iamshubhankar/index.html",
-    "precache-manifest.61d7ae9002789dc629fff6173e055225.js": "/iamshubhankar/precache-manifest.61d7ae9002789dc629fff6173e055225.js",
+    "precache-manifest.f24b9dffa32e6f541d5be42e54b31a30.js": "/iamshubhankar/precache-manifest.f24b9dffa32e6f541d5be42e54b31a30.js",
     "service-worker.js": "/iamshubhankar/service-worker.js",
     "static/css/3.3a26ebde.chunk.css.map": "/iamshubhankar/static/css/3.3a26ebde.chunk.css.map",
     "static/css/4.ee2a0142.chunk.css.map": "/iamshubhankar/static/css/4.ee2a0142.chunk.css.map",
@@ -48,6 +48,6 @@
     "static/js/runtime-main.2bbcc14a.js",
     "static/js/2.47bb59eb.chunk.js",
     "static/css/main.4b8566a2.chunk.css",
-    "static/js/main.9d6d5264.chunk.js"
+    "static/js/main.8de75f5f.chunk.js"
   ]
 }

@@ -175,26 +175,15 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Intern",
-      company: "Nokia",
+      role: "Software Developer",
+      company: "CiS International",
       companylogo: require("./assets/images/Nokia-Logo.jpg"),
-      date: "Nov 2020 – Jan 2021",
+      date: "Jan 2020 – Oct 2021",
       descBullets: [
-        "Worked on remote BTS monitoring system with capability to learn and perform predictive analysis, which led to 30% reduction in network alarms and fewer tickets for faults",
+        "Worked on remote BTS monitoring system with capability to learn and perform predictive analysis, which led to 30% reduction in “unnecessary” field return units",
         "Developed web application for custom dashboards using React.js and Node.js",
-        "Gaining in-depth knowledge of Azure, Google Analytics, Orchestration, and NF Onboarding",
-        "Leveraged knowledge in Python for data management and Java spring boot for rest API"
-      ]
-    },
-    {
-      role: "Research Assistant",
-      company: "UNSW",
-      companylogo: require("./assets/images/UNSW-Square.png"),
-      date: "Jun 2019 – Jan 2020",
-      descBullets: ["Developed automated scripts to reduce the efforts to process data from CSV, JSON and XML files by 50%.",
-      "Created regression models to interpret significant big 5 actor personality traits and reduced the p-values and VIF considerably by 15%",
-      "Applied statistical and algebraic techniques, data cleaning, and data processing to execute structured experimentation based on data-driven and market ideas",
-      "Leveraged knowledge in ScikitLearn, Pandas, Statsmodel, VIF, Python"
+        "Gaining in-depth knowledge of AWS, Orchestration, and NF Onboarding",
+        "Leveraged knowledge in Python for data management and Java spring boot for rest web API"
       ]
     },
     {
@@ -202,9 +191,11 @@ const workExperiences = {
       company: "rCITI (UNSW)",
       companylogo: require("./assets/images/rcitiLogo.png"),
       date: "Apr 2019 – Jan 2020",
-      descBullets: ["Devised a Java package to implement a macroscopic pedestrian loading model for multi-directional, anisotropic, stochastic, and congested pedestrian flow.",
-                  "Created a python script for generating pedestrian network leveraging data available on Openstreetmap.",
-                  "Open Sourced at <github url>"
+      descBullets: ["Devised a Java package to implement a macroscopic pedestrian loading model for multi-directional, anisotropic, stochastic, and congested pedestrian flow",
+      "Applied statistical and algebraic techniques, data cleaning and data processing to execute structured experimentation based on data-driven and market ideas based on data available on Openstreepmap using Python",
+      "Developed automated scripts to reduce the efforts to process data from CSV, JSON and XML files by 50%",
+      "Helped improve the pedestrian walking simulation efficiency by 70%",
+      "Open sourced the product on GitHub for community use under MIT license"
                 ]
     },
     {

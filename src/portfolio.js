@@ -177,7 +177,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "CiS International",
-      companylogo: require("./assets/images/Nokia-Logo.jpg"),
+      companylogo: require("./assets/images/cis.png"),
       date: "Jan 2020 – Oct 2020",
       descBullets: [
         "Worked on remote BTS monitoring system with capability to learn and perform predictive analysis, which led to 30% reduction in “unnecessary” field return units",

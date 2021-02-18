@@ -204,7 +204,7 @@ const workExperiences = {
       companylogo: require("./assets/images/dellLogo.png"),
       date: "July 2016 – Jan 2019",
       desc : "Gathered and consolidated business requirements, development of user stories, estimates and work plans and coordinated closely with cross-functional business teams",
-      descBullets: ["Developed application using Java Spring Boot, Hibernate, Oracle PL/SQL, and IBM MQ on Pivotal cloud using microservices architecture leveraging both IaaS and PaaS computing infrastructure",
+      descBullets: ["Developed application using C#, Java, Oracle PL/SQL, React.JS and IBM MQ on Pivotal cloud using microservices architecture leveraging both IaaS and PaaS computing infrastructure",
                     "Worked with Jenkins on docker and TFS workflows for application modeling and for CI/CD",
                     "Developed restful services for the implementation of the application interface"
                   ]

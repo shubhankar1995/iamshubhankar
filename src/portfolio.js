@@ -32,7 +32,7 @@ const skillsSection = {
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web"),
     emoji("⚡ Progressive applications with restful services utilizing Serverless / PaaS / IaaS cloud architecture"),
-    emoji("⚡ Integration of third party services such as Cognitive Services / AWS / Watson")
+    emoji("⚡ Integration of third party services such as Cognitive Services / AWS / Watson"),
     emoji("⚡ Lead conversations with vendors, techical service providers and Australian credit bureaus")
   ],
 

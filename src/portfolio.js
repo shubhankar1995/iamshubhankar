@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Shubhankar Mathur",
   title: "Hi all, I'm Shubhankar",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web applications with Reactjs / Nodejs and large scale distributed applications using Java / Python / C# / SQL database."),
+  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building backed services using Web applications with Reactjs and large scale distributed applications using Scala / Java / Python / C# / SQL database in FinTech and global logistics space."),
   resumeLink: ""
 };
 
@@ -33,6 +33,7 @@ const skillsSection = {
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web"),
     emoji("⚡ Progressive applications with restful services utilizing Serverless / PaaS / IaaS cloud architecture"),
     emoji("⚡ Integration of third party services such as Cognitive Services / AWS / Watson")
+    emoji("⚡ Lead conversations with vendors, techical service providers and Australian credit bureaus")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon

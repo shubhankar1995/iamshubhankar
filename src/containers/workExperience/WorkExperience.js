@@ -15,7 +15,25 @@ export default function WorkExperience() {
                     <div>
                         <h1 className="experience-heading">Experiences</h1>
                         <div className="experience-cards-div">
-                        {workExperiences.experience.map((card) => {
+                        {workExperiences.experienceL1.map((card) => {
+                            return (
+                                <ExperienceCard
+                                    isDark={isDark}
+                                    cardInfo={{
+                                        company: card.company,
+                                        desc: card.desc,
+                                        date: card.date,
+                                        companylogo: card.companylogo,
+                                        role: card.role,
+                                        descBullets: card.descBullets
+                                    }}
+                                />
+                            );
+                        })}
+                        </div>
+                        <br />
+                        <div className="experience-cards-div">
+                        {workExperiences.experienceL2.map((card) => {
                             return (
                                 <ExperienceCard
                                     isDark={isDark}

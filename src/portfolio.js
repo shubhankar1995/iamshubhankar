@@ -174,7 +174,37 @@ const techStack = {
 
 const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
-  experience: [
+  experienceL1: [
+    {
+      role: "Backend Developer",
+      company: "ClearScore",
+      companylogo: require("./assets/images/clearscore.jpeg"),
+      date: "Sept 2021 – Present",
+      descBullets: [
+        "To be added"
+      ]
+    },
+    {
+      role: "Software Developer",
+      company: "Sandstone Technology",
+      companylogo: require("./assets/images/sandstoneTechnology.jpeg"),
+      date: "March 2021 – Sept 2021",
+      descBullets: [
+        "To be added"
+      ]
+    },
+    {
+      role: "Research Assistant",
+      company: "UNSW Sydney",
+      companylogo: require("./assets/images/UNSW-Square.png"),
+      date: "May 2019 – Dec 2019",
+      desc : "To be added",
+      descBullets: [
+        "To be added"
+      ]
+    }
+  ],
+  experienceL2: [
     {
       role: "Software Developer",
       company: "CiS International",

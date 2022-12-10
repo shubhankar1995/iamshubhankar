@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03c05ddc8cddb621919798a38a6fc040",
+    "revision": "201706b9f173b970d7da427f7e2b18db",
     "url": "/iamshubhankar/index.html"
   },
   {
-    "revision": "bcafb99728abd3a05f61",
-    "url": "/iamshubhankar/static/css/3.3a26ebde.chunk.css"
+    "revision": "3406f4fd40aeb7a9dd10",
+    "url": "/iamshubhankar/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "e6c1e893c9746021a19c",
-    "url": "/iamshubhankar/static/css/4.ee2a0142.chunk.css"
+    "revision": "57458e7db524f1061095",
+    "url": "/iamshubhankar/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "353bc37b3a632451816c",
-    "url": "/iamshubhankar/static/css/main.4b8566a2.chunk.css"
+    "revision": "09b655a85bc70e8683ff",
+    "url": "/iamshubhankar/static/css/main.b3905b28.chunk.css"
   },
   {
-    "revision": "5949a40ad72f190f114c",
-    "url": "/iamshubhankar/static/js/2.d401e30c.chunk.js"
+    "revision": "b6e4f00f072e47114c32",
+    "url": "/iamshubhankar/static/js/2.43a3bc63.chunk.js"
   },
   {
-    "revision": "bcafb99728abd3a05f61",
-    "url": "/iamshubhankar/static/js/3.816f6d58.chunk.js"
+    "revision": "3406f4fd40aeb7a9dd10",
+    "url": "/iamshubhankar/static/js/3.4225dc6e.chunk.js"
   },
   {
-    "revision": "e6c1e893c9746021a19c",
-    "url": "/iamshubhankar/static/js/4.c5844a27.chunk.js"
+    "revision": "57458e7db524f1061095",
+    "url": "/iamshubhankar/static/js/4.7ba5cfaf.chunk.js"
   },
   {
-    "revision": "353bc37b3a632451816c",
-    "url": "/iamshubhankar/static/js/main.b92e6c21.chunk.js"
+    "revision": "09b655a85bc70e8683ff",
+    "url": "/iamshubhankar/static/js/main.3ed04417.chunk.js"
   },
   {
-    "revision": "8ab539e8ce9ba1910934",
-    "url": "/iamshubhankar/static/js/runtime-main.ab7d1c5c.js"
+    "revision": "7e7486ffeb663228697a",
+    "url": "/iamshubhankar/static/js/runtime-main.0175921a.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -124,15 +124,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iamshubhankar/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
+    "revision": "0ae60d5845d70b277d636851e917edb4",
+    "url": "/iamshubhankar/static/media/sandstoneTechnology.0ae60d58.jpeg"
+  },
+  {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/iamshubhankar/static/media/skill.34409398.svg"
   },
   {
-    "revision": "39eff4a91b01e00a32cb78f3797eec88",
-    "url": "/iamshubhankar/static/media/talksCardBack.39eff4a9.svg"
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/iamshubhankar/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "7f0feeedda08cf7d68593454bc2e82b5",
-    "url": "/iamshubhankar/static/media/talksCardBackAlt.7f0feeed.svg"
+    "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
+    "url": "/iamshubhankar/static/media/talksCardBackAlt.b48e86c9.svg"
   }
 ]);

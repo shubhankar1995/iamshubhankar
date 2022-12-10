@@ -194,7 +194,11 @@ const workExperiences = {
       companylogo: require("./assets/images/sandstoneTechnology.jpeg"),
       date: "March 2021 – Sept 2021",
       descBullets: [
-        "To be added"
+        "Full stack development and customization of end-to-end digital lending origination application for ING bank",
+        "Design and implemnet microservice midleware to handle customer integration",
+        "Ustilize jenkins for CI/CD pipeline and automate build processes",
+        "Leverage knowledge in Java, jBoss Seam, SQL and perform unit testing",
+        "Use docker for containerization"
       ]
     },
     {

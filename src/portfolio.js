@@ -181,7 +181,11 @@ const workExperiences = {
       companylogo: require("./assets/images/clearscore.jpeg"),
       date: "Sept 2021 – Present",
       descBullets: [
-        "To be added"
+        "Developing user facing application to enable users attain financial welbeing",
+        "Design and implement highly resilient application following the highest industry standards",
+        "Use test driven development (TDD)",
+        "Leverage knowledge in Scala, PostgreSQL, AWS to develop microservices",
+        "Train graduates to upskill them in software development lifecycle"
       ]
     },
     {

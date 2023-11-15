@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/iamshubhankar/static/css/main.b3905b28.chunk.css",
-    "main.js": "/iamshubhankar/static/js/main.ffeb1200.chunk.js",
-    "main.js.map": "/iamshubhankar/static/js/main.ffeb1200.chunk.js.map",
-    "runtime-main.js": "/iamshubhankar/static/js/runtime-main.2c0184da.js",
-    "runtime-main.js.map": "/iamshubhankar/static/js/runtime-main.2c0184da.js.map",
-    "static/js/2.a486b658.chunk.js": "/iamshubhankar/static/js/2.a486b658.chunk.js",
-    "static/js/2.a486b658.chunk.js.map": "/iamshubhankar/static/js/2.a486b658.chunk.js.map",
+    "main.css": "/iamshubhankar/static/css/main.d07b37a4.chunk.css",
+    "main.js": "/iamshubhankar/static/js/main.598c10ee.chunk.js",
+    "main.js.map": "/iamshubhankar/static/js/main.598c10ee.chunk.js.map",
+    "runtime-main.js": "/iamshubhankar/static/js/runtime-main.5356c2e2.js",
+    "runtime-main.js.map": "/iamshubhankar/static/js/runtime-main.5356c2e2.js.map",
+    "static/js/2.c7d5922a.chunk.js": "/iamshubhankar/static/js/2.c7d5922a.chunk.js",
+    "static/js/2.c7d5922a.chunk.js.map": "/iamshubhankar/static/js/2.c7d5922a.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/iamshubhankar/static/css/3.00373544.chunk.css",
-    "static/js/3.9ae4547f.chunk.js": "/iamshubhankar/static/js/3.9ae4547f.chunk.js",
-    "static/js/3.9ae4547f.chunk.js.map": "/iamshubhankar/static/js/3.9ae4547f.chunk.js.map",
+    "static/js/3.f8f229d5.chunk.js": "/iamshubhankar/static/js/3.f8f229d5.chunk.js",
+    "static/js/3.f8f229d5.chunk.js.map": "/iamshubhankar/static/js/3.f8f229d5.chunk.js.map",
     "static/css/4.a922a401.chunk.css": "/iamshubhankar/static/css/4.a922a401.chunk.css",
-    "static/js/4.27ed19aa.chunk.js": "/iamshubhankar/static/js/4.27ed19aa.chunk.js",
-    "static/js/4.27ed19aa.chunk.js.map": "/iamshubhankar/static/js/4.27ed19aa.chunk.js.map",
+    "static/js/4.e3da839e.chunk.js": "/iamshubhankar/static/js/4.e3da839e.chunk.js",
+    "static/js/4.e3da839e.chunk.js.map": "/iamshubhankar/static/js/4.e3da839e.chunk.js.map",
     "index.html": "/iamshubhankar/index.html",
-    "precache-manifest.fb008aeec01a486fde95d50ac95a06fb.js": "/iamshubhankar/precache-manifest.fb008aeec01a486fde95d50ac95a06fb.js",
+    "precache-manifest.fe41b066cafadc500c621233d6b20c78.js": "/iamshubhankar/precache-manifest.fe41b066cafadc500c621233d6b20c78.js",
     "service-worker.js": "/iamshubhankar/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/iamshubhankar/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/iamshubhankar/static/css/4.a922a401.chunk.css.map",
-    "static/css/main.b3905b28.chunk.css.map": "/iamshubhankar/static/css/main.b3905b28.chunk.css.map",
+    "static/css/main.d07b37a4.chunk.css.map": "/iamshubhankar/static/css/main.d07b37a4.chunk.css.map",
     "static/media/index.css": "/iamshubhankar/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Nokia-Logo.jpg": "/iamshubhankar/static/media/Nokia-Logo.aaf58b34.jpg",
     "static/media/Shiv_Nadar_University.jpg": "/iamshubhankar/static/media/Shiv_Nadar_University.0c0b522a.jpg",
@@ -46,9 +46,9 @@
     "static/media/talksCardBackAlt.svg": "/iamshubhankar/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c0184da.js",
-    "static/js/2.a486b658.chunk.js",
-    "static/css/main.b3905b28.chunk.css",
-    "static/js/main.ffeb1200.chunk.js"
+    "static/js/runtime-main.5356c2e2.js",
+    "static/js/2.c7d5922a.chunk.js",
+    "static/css/main.d07b37a4.chunk.css",
+    "static/js/main.598c10ee.chunk.js"
   ]
 }

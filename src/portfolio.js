@@ -4,6 +4,18 @@
 // Your Summary And Greeting Section
 
 import emoji from "react-easy-emoji";
+import unswLogo from "./assets/images/UNSW-Square.png";
+import snuLogo from "./assets/images/Shiv_Nadar_University.jpg";
+import clearscoreLogo from "./assets/images/clearscore.jpeg";
+import sandstoneLogo from "./assets/images/sandstoneTechnology.jpeg";
+import cisLogo from "./assets/images/cis.png";
+import rcitiLogo from "./assets/images/rcitiLogo.png";
+import dellLogo from "./assets/images/dellLogo.png";
+import saayaHealthLogo from "./assets/images/saayaHealthLogo.webp";
+import nextuLogo from "./assets/images/nextuLogo.webp";
+import codeInLogo from "./assets/images/codeInLogo.webp";
+import googleAssistantLogo from "./assets/images/googleAssistantLogo.webp";
+import pwaLogo from "./assets/images/pwaLogo.webp";
 
 const greeting = {
   /* Your Summary And Greeting Section */
@@ -118,7 +130,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of New South Wales (UNSW)",
-      logo: require("./assets/images/UNSW-Square.png"),
+      logo: unswLogo,
       subHeader: "Master of Information Technology",
       duration: "Feb 2019 - Dec 2020",
       desc: "Took courses about Software Security, AWS Cloud, Big Data Management, Machine Learning, Artificial Intelligence",
@@ -129,7 +141,7 @@ const educationInfo = {
     },
     {
       schoolName: "Shiv Nadar University",
-      logo: require("./assets/images/Shiv_Nadar_University.jpg"),
+      logo: snuLogo,
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "July 2012 - May 2016",
       desc: "Took courses about Software Engineering, Web Security, Operating Systems",
@@ -178,7 +190,7 @@ const workExperiences = {
     {
       role: "Backend Developer",
       company: "ClearScore",
-      companylogo: require("./assets/images/clearscore.jpeg"),
+      companylogo: clearscoreLogo,
       date: "Sept 2021 – Present",
       descBullets: [
         "Developing user facing application to enable users attain financial welbeing",
@@ -191,7 +203,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Sandstone Technology",
-      companylogo: require("./assets/images/sandstoneTechnology.jpeg"),
+      companylogo: sandstoneLogo,
       date: "March 2021 – Sept 2021",
       descBullets: [
         "Full stack development and customization of end-to-end digital lending origination application for ING bank",
@@ -204,7 +216,7 @@ const workExperiences = {
     {
       role: "Research Assistant",
       company: "UNSW Sydney",
-      companylogo: require("./assets/images/UNSW-Square.png"),
+      companylogo: unswLogo,
       date: "May 2019 – Dec 2019",
       desc : "To be added",
       descBullets: [
@@ -216,7 +228,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "CiS International",
-      companylogo: require("./assets/images/cis.png"),
+      companylogo: cisLogo,
       date: "Jan 2020 – Oct 2020",
       descBullets: [
         "Worked on remote BTS monitoring system with capability to learn and perform predictive analysis, which led to 30% reduction in “unnecessary” field return units",
@@ -228,7 +240,7 @@ const workExperiences = {
     {
       role: "Student Assistant",
       company: "rCITI (UNSW)",
-      companylogo: require("./assets/images/rcitiLogo.png"),
+      companylogo: rcitiLogo,
       date: "Apr 2019 – Jan 2020",
       descBullets: ["Devised a Java package to implement a macroscopic pedestrian loading model for multi-directional, anisotropic, stochastic, and congested pedestrian flow",
       "Applied statistical and algebraic techniques, data cleaning and data processing to execute structured experimentation based on data-driven and market ideas based on data available on Openstreepmap using Python",
@@ -240,7 +252,7 @@ const workExperiences = {
     {
       role: "Software Engineer 2",
       company: "Dell",
-      companylogo: require("./assets/images/dellLogo.png"),
+      companylogo: dellLogo,
       date: "July 2016 – Jan 2019",
       desc : "Gathered and consolidated business requirements, development of user stories, estimates and work plans and coordinated closely with cross-functional business teams",
       descBullets: ["Developed application using C#, Java, Oracle PL/SQL, React.JS and IBM MQ on Pivotal cloud using microservices architecture leveraging both IaaS and PaaS computing infrastructure",
@@ -268,11 +280,11 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: saayaHealthLogo,
       link: "http://saayahealth.com/"
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: nextuLogo,
       link: "http://nextu.se/"
     }
   ]

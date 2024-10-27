@@ -4,6 +4,8 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import { contactInfo } from "../../portfolio";
 import { Fade } from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
+import contactMailDark from "../../assets/images/contactMailDark.svg";
+import contactMail from "../../assets/images/contactMail.webp";
 
 export default function Contact() {
   const { isDark } = useContext(StyleContext);
@@ -47,9 +49,7 @@ export default function Contact() {
           <div className="contact-image-div">
             <img
               alt="Saad Working"
-              src={require(`../../assets/images/${
-                isDark ? "contactMailDark.svg" : "contactMail.webp"
-              }`)}
+              src={isDark ? contactMailDark : contactMail}
             ></img>
           </div>
         </div>

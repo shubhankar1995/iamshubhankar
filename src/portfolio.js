@@ -218,9 +218,10 @@ const workExperiences = {
       company: "UNSW Sydney",
       companylogo: unswLogo,
       date: "May 2019 – Dec 2019",
-      desc : "To be added",
       descBullets: [
-        "To be added"
+        "Using data analytics techniques like logistics and linear regression for analyzing the impact of human emotions on digital marketing using Python",
+        "Data for analysis is collected from various websites using web scraping techniques",
+        "Create visualizations for representation purposes"
       ]
     }
   ],
@@ -301,7 +302,7 @@ const achievementSection = {
     {
       title: "Google Code-In Finalist",
       subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: codeInLogo,
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
         { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
@@ -311,14 +312,14 @@ const achievementSection = {
     {
       title: "Google Assistant Action",
       subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: googleAssistantLogo,
       footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
     },
 
     {
       title: "PWA Web App Developer",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: pwaLogo,
       footerLink: [
         { name: "Certification", url: "" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
